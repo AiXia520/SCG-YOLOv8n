@@ -1,0 +1,14 @@
+# Single-class (potato) dataset in YOLO format
+path: /data/potato
+train: images/train
+val: images/val
+test: images/test
+
+
+# Single class
+names:
+0: potato
+
+
+# (Optional) Tiling / cache settings if you have many large images
+download: ''

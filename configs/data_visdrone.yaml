@@ -1,0 +1,14 @@
+# Ultralytics-style dataset YAML for VisDrone2019-DET
+path: /data/visdrone
+train: images/train
+val: images/val
+names:
+0: person
+1: bicycle
+2: car
+3: van
+4: truck
+5: tricycle
+6: awning-tricycle
+7: bus
+8: motor

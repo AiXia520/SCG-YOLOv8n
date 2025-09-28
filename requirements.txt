@@ -1,0 +1,12 @@
+ultralytics>=8.3.0
+opencv-python
+numpy
+pandas
+matplotlib
+pyyaml
+scipy
+onnx
+onnxruntime
+onnxsim
+tensorflow-cpu==2.15.* # for tflite conversion; use -gpu if needed
+onnx2tf>=1.21.0 # optional: alternative ONNX→TFLite path
