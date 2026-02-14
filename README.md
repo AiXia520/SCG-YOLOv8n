@@ -48,56 +48,6 @@ Early-stage disease and pest detection is critical for reducing crop loss. Using
 3. Tree Crop Detection (Walnut, Camellia Oil Tree, etc.)
 In addition to field crops, we are extending our detection framework to orchard and economic forest scenarios, including walnut trees and oil tea (Camellia oleifera) plantations. The system automatically recognizes individual trees, monitors canopy health, estimates plant distribution, and supports digital orchard management.
 
-🧠 System Architecture
 
-The proposed intelligent agricultural detection system consists of four major components:
-
-UAV Data Acquisition Layer
-High-resolution RGB and optional multispectral cameras mounted on drones collect real-time aerial imagery across farmland areas under varying environmental conditions.
-
-Edge Intelligence Processing Layer
-Lightweight deep learning models deployed on edge devices perform rapid on-site detection, filtering, and preliminary analysis, enabling low-latency responses in the field.
-
-Cloud-Based Model Training and Optimization
-Large-scale annotated agricultural datasets are used to continuously train, refine, and evaluate detection models, improving robustness across seasons, crop varieties, and geographic conditions.
-
-Smart Agricultural Visualization Platform
-A user-friendly interface displays detection results, crop health maps, disease risk alerts, and statistical reports, supporting farmers and agricultural managers in making informed decisions.
-
-🔬 Research Contributions
-
-This project emphasizes both applied system development and methodological innovation, including:
-
-UAV-based multi-scale crop detection under complex backgrounds
-
-Robust disease recognition under varying illumination and occlusion conditions
-
-Lightweight deep learning models for edge deployment
-
-Data-efficient training strategies for agricultural scenarios with limited labeled data
-
-Integrated perception-to-decision agricultural pipelines
-
-🌍 Practical Impact
-
-By automating crop monitoring tasks traditionally performed through manual inspection, our UAV-based system aims to:
-
-Reduce labor costs and inspection time
-
-Improve early disease detection and prevention
-
-Enable precise yield estimation
-
-Support data-driven agricultural management
-
-Increase overall crop productivity and sustainability
-
-This work is particularly valuable for large-scale farmlands, mountainous agricultural regions, and areas with limited access to traditional monitoring infrastructure.
-
-🚀 Project Status
-
-The intelligent UAV agricultural detection system is currently under active development. Core detection models, data collection workflows, and system integration modules are being continuously improved and tested in real agricultural environments. Future work will expand supported crop types, enhance multi-sensor fusion capabilities, and incorporate real-time decision support functions.
-
-We welcome collaboration from researchers, developers, and agricultural practitioners interested in UAV vision, precision agriculture, and intelligent perception systems.
 
 
