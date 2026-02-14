@@ -31,6 +31,7 @@ On mid‑range devices you should see real‑time FPS; prefer FP16. Enable NNAPI
 
 In the next step, we will base our research on drones to explore the application of intelligent drones in the agricultural field, including the detection and counting of potatoes, the identification of diseases and pests on potato leaves, and the detection of related crops such as walnuts and oil tea. We will further develop an intelligent agricultural detection system based on drones, which is currently under development.
 
+#Latest News
 🚁 Intelligent UAV-Based Agricultural Monitoring and Detection System
 
 With the rapid development of artificial intelligence, computer vision, and unmanned aerial vehicle (UAV) technologies, smart agriculture is undergoing a profound transformation toward precision, automation, and data-driven decision-making. Our ongoing research focuses on the development of an intelligent UAV-based agricultural detection and monitoring system designed to support large-scale crop analysis in complex farmland environments.
