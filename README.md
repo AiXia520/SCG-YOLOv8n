@@ -31,8 +31,17 @@ On mid‑range devices you should see real‑time FPS; prefer FP16. Enable NNAPI
 
 In the next step, we will base our research on drones to explore the application of intelligent drones in the agricultural field, including the detection and counting of potatoes, the identification of diseases and pests on potato leaves, and the detection of related crops such as walnuts and oil tea. We will further develop an intelligent agricultural detection system based on drones, which is currently under development.
 
-#Latest News
-🚁 Intelligent UAV-Based Agricultural Monitoring and Detection System
+**Latest News**
+**Task 1: Potato Quality Classification and Defect Detection**
+
+As the next stage of our UAV-enabled intelligent agriculture research, we are developing an automated potato quality inspection and grading system based on deep learning and computer vision techniques. This task focuses on fine-grained classification and detection of potato conditions to support post-harvest sorting and quality control.
+
+The system is designed to recognize and categorize potatoes into five key classes: damaged potatoes, unqualified potatoes, fungal-infected potatoes, healthy potatoes, and sprouted potatoes. By training convolutional neural networks and object detection models on diverse potato image datasets collected under real agricultural and industrial conditions, the system aims to achieve high accuracy and robustness across variations in lighting, size, texture, and surface contamination.
+
+Through real-time visual analysis, the proposed approach enables rapid identification of defective or diseased potatoes, helping reduce waste, improve food safety, and increase the efficiency of grading and sorting processes. This intelligent classification module will be integrated into our broader smart agriculture pipeline, supporting both UAV-based field monitoring and ground-level post-harvest inspection scenarios.
+
+
+**Task 2: Intelligent UAV-Based Agricultural Monitoring and Detection System**
 
 With the rapid development of artificial intelligence, computer vision, and unmanned aerial vehicle (UAV) technologies, smart agriculture is undergoing a profound transformation toward precision, automation, and data-driven decision-making. Our ongoing research focuses on the development of an intelligent UAV-based agricultural detection and monitoring system designed to support large-scale crop analysis in complex farmland environments.
 
