@@ -41,7 +41,6 @@ The system is designed to recognize and categorize potatoes into five key classe
 Through real-time visual analysis, the proposed approach enables rapid identification of defective or diseased potatoes, helping reduce waste, improve food safety, and increase the efficiency of grading and sorting processes. This intelligent classification module will be integrated into our broader smart agriculture pipeline, supporting both UAV-based field monitoring and ground-level post-harvest inspection scenarios.
 
 <img width="1842" height="1093" alt="image" src="https://github.com/user-attachments/assets/f85571f5-dce7-4bc2-a549-874931aea1ac" />
-<img width="1523" height="1002" alt="image" src="https://github.com/user-attachments/assets/bf15741e-b599-4732-a09e-4fca52dfa7d0" />
 
 **Task 2: Intelligent UAV-Based Agricultural Monitoring and Detection System**
 
