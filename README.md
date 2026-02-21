@@ -47,7 +47,9 @@ Through real-time visual analysis, the proposed approach enables rapid identific
 With the rapid development of artificial intelligence, computer vision, and unmanned aerial vehicle (UAV) technologies, smart agriculture is undergoing a profound transformation toward precision, automation, and data-driven decision-making. Our ongoing research focuses on the development of an intelligent UAV-based agricultural detection and monitoring system designed to support large-scale crop analysis in complex farmland environments.
 
 The core objective of this project is to leverage drone platforms equipped with high-resolution sensors and deep learning models to enable real-time, accurate, and scalable agricultural perception. By integrating aerial imaging, intelligent recognition algorithms, and edge-cloud collaborative processing, we aim to build a comprehensive UAV-enabled smart agriculture solution capable of supporting crop growth assessment, disease monitoring, yield estimation, and management decision-making.
-![image](https://github.com/user-attachments/assets/4fd3c2c5-28f4-4d65-be5e-f5fec1281b17)
+<img width="1600" height="866" alt="图片1" src="https://github.com/user-attachments/assets/3ddb1bec-3f89-4411-86a4-0bb02e5986ce" />
+
+
 
 🌱 Key Research Applications
 
